@@ -9,3 +9,9 @@
 _Italic_
 
 > Block quotes
+
+## Github Overview
+
+When adding a Branch to you Git and pushing it to Github make sure your Branch is properly named and contains the folder you want to edit.
+
+As soon as you pushed you Git the new Branch should appear at your repository.
